@@ -1,0 +1,4 @@
+com/example/android/wander/BuildConfig.java
+ com.example.android.wander.BuildConfig
+com/example/android/wander/databinding/ActivityMapsBinding.java
+ com.example.android.wander.databinding.ActivityMapsBinding
