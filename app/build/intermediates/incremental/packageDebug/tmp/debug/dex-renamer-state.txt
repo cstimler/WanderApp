@@ -1,4 +1,4 @@
-#Sun Sep 05 23:52:48 PDT 2021
+#Wed Sep 08 02:18:35 PDT 2021
 base.0=/Users/december2020/AndroidStudioProjects/Wander/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
